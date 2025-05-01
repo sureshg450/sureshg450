@@ -1,6 +1,6 @@
 # 🚀 Sureshkumar Gunasekar | Cloud DevOps Engineer  
 
-👋 Hi there! I'm **Sureshkumar Gunasekar**, a passionate **DevOps Engineer** with over **9.5 years of experience** in **Linux System Administration**, **Cloud Infrastructure**, **CI/CD Pipelines**, and **Automation**. I specialize in streamlining deployments, optimizing system performance, and implementing scalable solutions in cloud environments.  
+👋 Hi there! I'm **Sureshkumar Gunasekar**, a passionate **DevOps Engineer** with over **9.11 years of experience** in **Linux System Administration**, **Cloud Infrastructure**, **CI/CD Pipelines**, and **Automation**. I specialize in streamlining deployments, optimizing system performance, and implementing scalable solutions in cloud environments.  
 
 ---
 
